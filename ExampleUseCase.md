@@ -56,3 +56,5 @@ See the example fetch call that returns the table as HTML
 > From here it is up to you to build an app
 
 Refer to the Repo for example how this works
+
+[Example app repo](https://github.com/aurorasean/Html-Content-Block-Sample-App)
